@@ -1,0 +1,13 @@
+---
+layout: default
+title: Johan Nilsson
+---
+
+<div id="posts">
+    {% for post in site.posts %}
+        <hr>
+        <h2>{{ post.title }}</h2>
+        <hr>
+        {{ post.content }}
+    {% endfor %}
+</div>
