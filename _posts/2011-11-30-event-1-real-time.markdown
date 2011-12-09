@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Event 1 : Exploding Spotify API
+title: Event 1 : Spotify API
 ---
 21/01/12
 
-Spotify has opened up their API:s. This is exciting. But what can we actually do with them? 
+Spotify has opened up their API's. This is exciting. But what can we actually do with them? 
 
 Protothon will explore the creative potential of this in a 24 hour event where inter-disciplinary teams of creatives and coders will rapid prototype their asses off to invent the answers. 
 
